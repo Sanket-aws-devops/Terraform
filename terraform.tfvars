@@ -1,0 +1,6 @@
+ami                 = "ami-020cba7c55df1f615"
+instance_type       = "t2.micro"
+aws_vpc_cidr        = "10.0.0.0/24"
+#vpc_name            = "temp-vpc"
+public_subnet_cidr  = "10.0.0.0/25"
+allowed_http_cidr   = "0.0.0.0/0"
